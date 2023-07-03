@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title                    : "Esdras L. Bispo Jr."
+title_separator          : "|"
+subtitle                 : "Home Page"
 name                     : "Esdras L. Bispo Jr."
 description              : "Professor, Ph.D. Student."
 URL                      : "https://bispojr.github.io/github.io.2/"
