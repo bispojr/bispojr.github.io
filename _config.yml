@@ -122,22 +122,6 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Esdras-Bispo-Jr"
-      
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bispojr"
-    
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/esdrasbispojr"
-      
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/prof.bispojr"
-    
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bispojr"
 
 # Site Footer
 footer:
