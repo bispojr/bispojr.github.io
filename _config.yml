@@ -116,18 +116,20 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bispojr"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+    
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/esdrasbispojr"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    
       url: "https://github.com/bispojr"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/prof.bispojr"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bispojr"
 
 # Site Footer
 footer:
