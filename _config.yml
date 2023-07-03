@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Esdras L. Bispo Jr."
+title                    : "Profissional Home Page"
 title_separator          : "|"
-subtitle                 : "Home Page"
+subtitle                 : "Esdras L. Bispo Jr."
 name                     : "Esdras L. Bispo Jr."
 description              : "Professor, Ph.D. Student."
 URL                      : "https://bispojr.github.io/github.io.2/"
 baseurl                  : "/"
 repository               : "https://github.com/bispojr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/photo.jpg"
+logo                     : #"/assets/images/photo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-username               : "bispojr"
+  username               : "bispojr"
 facebook:
   username               :
   app_id                 :
@@ -112,22 +112,22 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:bispojr@ufj.edu.br"
+      url: "mailto:bispojr@ufj.edu.br"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/bispojr"
+      url: "https://twitter.com/bispojr"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/esdrasbispojr"
+      url: "https://facebook.com/esdrasbispojr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/bispojr"
+      url: "https://github.com/bispojr"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/prof.bispojr"
+      url: "https://instagram.com/prof.bispojr"
 
 # Site Footer
 footer:
