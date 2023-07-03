@@ -116,8 +116,12 @@ author:
       url: "mailto:bispojr@ufj.edu.br"
     
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-google"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=AoJXz38AAAAJ"
+
+    - label: "ResearchGate"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.researchgate.net/profile/Esdras-Bispo-Jr"
       
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
