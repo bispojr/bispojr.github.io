@@ -25,7 +25,7 @@ URL                      : "https://bispojr.github.io/github.io.2/"
 baseurl                  : "/"
 repository               : "https://github.com/bispojr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/photo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+username               : "bispojr"
 facebook:
   username               :
   app_id                 :
