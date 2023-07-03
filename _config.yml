@@ -109,24 +109,28 @@ author:
   bio              : "Professor, Ph.D. Student, Computing Educator"
   location         : "Recife, Brazil"
   email            : #"bispojr@ufj.edu.br"
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:bispojr@ufj.edu.br"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=AoJXz38AAAAJ"
+      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/bispojr"
     
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/esdrasbispojr"
-    
-      url: "https://github.com/bispojr"
+      
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/prof.bispojr"
+    
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bispojr"
