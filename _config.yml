@@ -124,7 +124,7 @@ author:
       url: "https://www.researchgate.net/profile/Esdras-Bispo-Jr"
 
     - label: "DBLP"
-      icon: "fab fa-fw fa-book"
+      icon: "fa fa-fw fa-book"
       url: "https://dblp.org/pid/62/5187.html"
 
 # Site Footer
