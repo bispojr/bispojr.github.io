@@ -123,6 +123,10 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Esdras-Bispo-Jr"
 
+    - label: "DBLP"
+      icon: "fab fa-fw fa-book"
+      url: "https://dblp.org/pid/62/5187.html"
+
 # Site Footer
 footer:
   links:
