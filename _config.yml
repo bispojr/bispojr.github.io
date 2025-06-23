@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Profissional Page"
+title                    : "Professional Page"
 title_separator          : "|"
 subtitle                 : "Esdras L. Bispo Jr."
 name                     : "Esdras L. Bispo Jr."
-description              : "Professor, Ph.D. Student."
+description              : "Professor"
 URL                      : "https://bispojr.github.io/"
 baseurl                  : "/"
 repository               : "https://github.com/bispojr"
